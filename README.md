@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KenTheGeek
-- 👀 I’m interested in learning to code properly with security in mind.
+- 👀 I’m interested in learning to code security.
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on (more later)
 - 📫 How to reach me kenami at telus.net
